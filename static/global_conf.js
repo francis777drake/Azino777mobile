@@ -2,22 +2,22 @@ const GlobalConfigs = {
   pageTitle: "AZINO777",
   navigationType: ProjectConsts.allNavigationTypes.singlePage,  //can be hamburger, singlePage, listMenu
   useIFramesEverywhere: false,
-  homeSitePageUrl: "https://go3.azinogo.com/?project=azino777&author=newlyki-alex-tlt&source=mobile&type=app&roll=280218",
+  homeSitePageUrl: "azmnp.com/promo/click/5af95a69e103e",
   menuItems: [
-    //{icon: 'home', text: 'Главная', url:"https://go3.azinogo.com/?project=azino777&author=newlyki-alex-tlt&source=mobile&type=app&roll=280218"},
+    //{icon: 'home', text: 'Главная', url:"azmnp.com/promo/click/5af95a69e103e"},
     {
       icon: 'list', text: 'Видео',
-      url: "https://go3.azinogo.com/?project=azino777&author=newlyki-alex-tlt&source=mobile&type=app&roll=280218", notLoadToIFrame: true
+      url: "azmnp.com/promo/click/5af95a69e103e", notLoadToIFrame: true
     },
     //{icon: 'photo', text: 'Игры',
-    // url:"https://go3.azinogo.com/?project=azino777&author=newlyki-alex-tlt&source=mobile&type=app&roll=280218"},
+    // url:"azmnp.com/promo/click/5af95a69e103e"},
     {
       icon: 'info', text: 'О нас',
-      url: "https://go3.azinogo.com/?project=azino777&author=newlyki-alex-tlt&source=mobile&type=app&roll=280218"
+      url: "azmnp.com/promo/click/5af95a69e103e"
     },
     {
       icon: 'mail', text: 'Контакты',
-      url: "https://go3.azinogo.com/?project=azino777&author=newlyki-alex-tlt&source=mobile&type=app&roll=280218"
+      url: "azmnp.com/promo/click/5af95a69e103e"
     },
     {
       icon: 'group', text: 'О разработчике', url: "",
